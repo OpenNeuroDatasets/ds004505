@@ -1,0 +1,37 @@
+{
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": {
+    "FilterDescription": {
+      "Description": "1 Hz highpass & Cleanline"
+    }
+  },
+  "HardwareFilters": {
+    "FilterDescription": {
+      "Description": "N/a"
+    }
+  },
+  "SoftwareVersions": "N/a",
+  "DeviceSerialNumber": "N/a",
+  "ManufacturersModelName": "LiveAmp 64",
+  "Manufacturer": "BrainVision",
+  "EEGPlacementScheme": "10-20",
+  "EEGGround": "Fpz",
+  "EEGReference": "CPz",
+  "CapManufacturersModelName": "BrainVision actiCAP snap sensors",
+  "CapManufacturer": "Brain Products GmbH",
+  "InstitutionAddress": "Gainesville, FL",
+  "InstitutionalDepartmentName": "J. Crayton Pruitt Family Department of Biomedical Engineering",
+  "InstitutionName": "University of Florida",
+  "Instructions": "Avoid clenching your jaw, stay as relaxed as possible during the trials. For cooperative trials with a human player, work together to keep as many balls in play as possible. For competitive games, try winning a 21-point game against the human player, switching serves every five points. For stationary ball machine trials, the ball will come to the center of the table, stay in the same place to hit the balls. For moving ball machine trials, the balls will come toward all parts of the table, feel free to move as you normally would to hit the ball. We did not instruct participants to hit a specific target on the table nor to hit specific types of shots. ",
+  "TaskDescription": "Participants played table tennis with a human and a ball machine in four 15-minute blocks of trials. In a single block, participants played 7.5 minutes with a human player for half of the trials (cooperative or competitive play) and the other 7.5 minutes were played against a ball machine (3 back-to-back 2.5 minute trials that alternated between stationary and moving conditions). Half of the ball machine trials fed the ball to the participant on one bounce (replicating a rally shot), and the other half fed the ball on two bounces (replicating a serve). The order of trials among and within blocks was randomized.  ",
+  "HeadCircumference": 58,
+  "TaskName": "TableTennis",
+  "EEGChannelCount": 120,
+  "EMGChannelCount": 8,
+  "MiscChannelCount": 185,
+  "RecordingType": "continuous",
+  "RecordingDuration": 4447.728,
+  "SamplingFrequency": 250,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0
+}
