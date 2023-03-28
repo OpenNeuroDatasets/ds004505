@@ -15,7 +15,7 @@
     }
   },
   "value": {
-    "Description": "Type of event (equivalent to the EEG.event.type field in the data)."
+    "Description": "Type of event (equivalent to the EEG.event.type field in the data).",
     "Levels": {
       "M 1": "Sync event recorded with BrainVision system",
       "Subject_hit": "The participant's paddle made contact with the ball",
