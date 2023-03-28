@@ -5,7 +5,7 @@
   },
   "trial_type": {
     "LongName": "Event categorization",
-    "Description": "Primary categorization of each trial to identify them as instances of the experimental conditions (equivalent to the EEG.event.condlabel field in the data).",
+    "Description": "Primary categorization of each trial to identify them as instances of the experimental conditions (equivalent to the EEG.event.condlabel field in the data)."
     "Levels": {
       "competitive": "Competitive games with a human player",
       "cooperative": "Cooperative hitting with a human player",
