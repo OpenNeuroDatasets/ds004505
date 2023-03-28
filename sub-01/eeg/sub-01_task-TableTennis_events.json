@@ -19,7 +19,7 @@
     "Levels": {
       "M 1": "Sync event recorded with BrainVision system",
       "Subject_hit": "The participant's paddle made contact with the ball",
-      "Subject_receive": "The ball machine fed OR the human opponent's paddle made contact with the ball",
+      "Subject_receive": "The ball machine fed OR the human opponent's paddle made contact with the ball"
 	}
   }
 }
