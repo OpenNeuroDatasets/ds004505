@@ -1,0 +1,341 @@
+name	type	units
+Fp1	EEG	microV
+AFp1	EEG	microV
+AFz	EEG	microV
+AF3	EEG	microV
+AF7	EEG	microV
+AFF5h	EEG	microV
+AFF1h	EEG	microV
+F1	EEG	microV
+F3	EEG	microV
+F5	EEG	microV
+F7	EEG	microV
+F9	EEG	microV
+FFT9h	EEG	microV
+FFT7h	EEG	microV
+FFC5h	EEG	microV
+FFC3h	EEG	microV
+FFC1h	EEG	microV
+FCz	EEG	microV
+FC1	EEG	microV
+FC3	EEG	microV
+FC5	EEG	microV
+FT7	EEG	microV
+FT9	EEG	microV
+FTT9h	EEG	microV
+FTT7h	EEG	microV
+FCC5h	EEG	microV
+FCC3h	EEG	microV
+FCC1h	EEG	microV
+C1	EEG	microV
+C3	EEG	microV
+C5	EEG	microV
+T7	EEG	microV
+TTP7h	EEG	microV
+CCP5h	EEG	microV
+CCP3h	EEG	microV
+CCP1h	EEG	microV
+CP1	EEG	microV
+CP3	EEG	microV
+CP5	EEG	microV
+TP7	EEG	microV
+TPP9h	EEG	microV
+TPP7h	EEG	microV
+CPP5h	EEG	microV
+CPP3h	EEG	microV
+CPP1h	EEG	microV
+P1	EEG	microV
+P3	EEG	microV
+P5	EEG	microV
+P7	EEG	microV
+PPO5h	EEG	microV
+PPO1h	EEG	microV
+POz	EEG	microV
+PO3	EEG	microV
+PO7	EEG	microV
+PPO9h	EEG	microV
+POO9h	EEG	microV
+O1	EEG	microV
+POO1	EEG	microV
+OI1h	EEG	microV
+Iz	EEG	microV
+Cz	EEG	microV
+C2	EEG	microV
+C4	EEG	microV
+C6	EEG	microV
+T8	EEG	microV
+FTT10h	EEG	microV
+FTT8h	EEG	microV
+FCC6h	EEG	microV
+FCC4h	EEG	microV
+FCC2h	EEG	microV
+FC2	EEG	microV
+FC4	EEG	microV
+FC6	EEG	microV
+FT8	EEG	microV
+FT10	EEG	microV
+FFT10h	EEG	microV
+FFT8h	EEG	microV
+FFC6h	EEG	microV
+FFC4h	EEG	microV
+FFC2h	EEG	microV
+Fz	EEG	microV
+F2	EEG	microV
+F4	EEG	microV
+F6	EEG	microV
+F8	EEG	microV
+F10	EEG	microV
+AFF6h	EEG	microV
+AFF2h	EEG	microV
+AF4	EEG	microV
+AF8	EEG	microV
+FP2	EEG	microV
+AFp2	EEG	microV
+Oz	EEG	microV
+OI2h	EEG	microV
+POO10h	EEG	microV
+O2	EEG	microV
+POO2	EEG	microV
+PO4	EEG	microV
+PO8	EEG	microV
+PPO10h	EEG	microV
+PPO6h	EEG	microV
+PPO2h	EEG	microV
+Pz	EEG	microV
+P2	EEG	microV
+P4	EEG	microV
+P6	EEG	microV
+P8	EEG	microV
+TPP10h	EEG	microV
+TPP8h	EEG	microV
+CPP6h	EEG	microV
+CPP4h	EEG	microV
+CPP2h	EEG	microV
+CP2	EEG	microV
+CP4	EEG	microV
+CP6	EEG	microV
+TP8	EEG	microV
+TTP8h	EEG	microV
+CCP6h	EEG	microV
+CCP4h	EEG	microV
+CCP2h	EEG	microV
+N-Fp1	MISC	n/a
+N-AFp1	MISC	n/a
+N-AFz	MISC	n/a
+N-AF3	MISC	n/a
+N-AF7	MISC	n/a
+N-AFF5h	MISC	n/a
+N-AFF1h	MISC	n/a
+N-F1	MISC	n/a
+N-F3	MISC	n/a
+N-F5	MISC	n/a
+N-F7	MISC	n/a
+N-F9	MISC	n/a
+N-FFT9h	MISC	n/a
+N-FFT7h	MISC	n/a
+N-FFC5h	MISC	n/a
+N-FFC3h	MISC	n/a
+N-FFC1h	MISC	n/a
+N-FCz	MISC	n/a
+N-FC1	MISC	n/a
+N-FC3	MISC	n/a
+N-FC5	MISC	n/a
+N-FT7	MISC	n/a
+N-FT9	MISC	n/a
+N-FTT9h	MISC	n/a
+N-FTT7h	MISC	n/a
+N-FCC5h	MISC	n/a
+N-FCC3h	MISC	n/a
+N-FCC1h	MISC	n/a
+N-C1	MISC	n/a
+N-C3	MISC	n/a
+N-C5	MISC	n/a
+N-T7	MISC	n/a
+N-TTP7h	MISC	n/a
+N-CCP5h	MISC	n/a
+N-CCP3h	MISC	n/a
+N-CCP1h	MISC	n/a
+N-CP1	MISC	n/a
+N-CP3	MISC	n/a
+N-CP5	MISC	n/a
+N-TP7	MISC	n/a
+N-TPP9h	MISC	n/a
+N-TPP7h	MISC	n/a
+N-CPP5h	MISC	n/a
+N-CPP3h	MISC	n/a
+N-CPP1h	MISC	n/a
+N-P1	MISC	n/a
+N-P3	MISC	n/a
+N-P5	MISC	n/a
+N-P7	MISC	n/a
+N-PPO5h	MISC	n/a
+N-PPO1h	MISC	n/a
+N-POz	MISC	n/a
+N-PO3	MISC	n/a
+N-PO7	MISC	n/a
+N-PPO9h	MISC	n/a
+N-POO9h	MISC	n/a
+N-O1	MISC	n/a
+N-POO1	MISC	n/a
+N-OI1h	MISC	n/a
+N-Iz	MISC	n/a
+N-Cz	MISC	n/a
+N-C2	MISC	n/a
+N-C4	MISC	n/a
+N-C6	MISC	n/a
+N-T8	MISC	n/a
+N-FTT10h	MISC	n/a
+N-FTT8h	MISC	n/a
+N-FCC6h	MISC	n/a
+N-FCC4h	MISC	n/a
+N-FCC2h	MISC	n/a
+N-FC2	MISC	n/a
+N-FC4	MISC	n/a
+N-FC6	MISC	n/a
+N-FT8	MISC	n/a
+N-FT10	MISC	n/a
+N-FFT10h	MISC	n/a
+N-FFT8h	MISC	n/a
+N-FFC6h	MISC	n/a
+N-FFC4h	MISC	n/a
+N-FFC2h	MISC	n/a
+N-Fz	MISC	n/a
+N-F2	MISC	n/a
+N-F4	MISC	n/a
+N-F6	MISC	n/a
+N-F8	MISC	n/a
+N-F10	MISC	n/a
+N-AFF6h	MISC	n/a
+N-AFF2h	MISC	n/a
+N-AF4	MISC	n/a
+N-AF8	MISC	n/a
+N-FP2	MISC	n/a
+N-AFp2	MISC	n/a
+N-Oz	MISC	n/a
+N-OI2h	MISC	n/a
+N-POO10h	MISC	n/a
+N-O2	MISC	n/a
+N-POO2	MISC	n/a
+N-PO4	MISC	n/a
+N-PO8	MISC	n/a
+N-PPO10h	MISC	n/a
+N-PPO6h	MISC	n/a
+N-PPO2h	MISC	n/a
+N-Pz	MISC	n/a
+N-P2	MISC	n/a
+N-P4	MISC	n/a
+N-P6	MISC	n/a
+N-P8	MISC	n/a
+N-TPP10h	MISC	n/a
+N-TPP8h	MISC	n/a
+N-CPP6h	MISC	n/a
+N-CPP4h	MISC	n/a
+N-CPP2h	MISC	n/a
+N-CP2	MISC	n/a
+N-CP4	MISC	n/a
+N-CP6	MISC	n/a
+N-TP8	MISC	n/a
+N-TTP8h	MISC	n/a
+N-CCP6h	MISC	n/a
+N-CCP4h	MISC	n/a
+N-CCP2h	MISC	n/a
+LISCM	EMG	n/a
+LSSCM	EMG	n/a
+LSTrap	EMG	n/a
+LITrap	EMG	n/a
+CGY-x	MISC	n/a
+CGY-y	MISC	n/a
+CGY-z	MISC	n/a
+RITrap	EMG	n/a
+RISCM	EMG	n/a
+RSSCM	EMG	n/a
+RSTrap	EMG	n/a
+CWR-x	MISC	n/a
+CWR-y	MISC	n/a
+CWR-z	MISC	n/a
+NGY-x	MISC	n/a
+NGY-y	MISC	n/a
+NGY-z	MISC	n/a
+NWR-x	MISC	n/a
+NWR-y	MISC	n/a
+NWR-z	MISC	n/a
+SyncPulse(uV)	MISC	n/a
+Participant_Backpack_Acc_X(g)	MISC	n/a
+Participant_Paddle_Acc_X(g)	MISC	n/a
+BallMachine_Acc_X(g)	MISC	n/a
+Researcher_Paddle_Acc_X(g)	MISC	n/a
+Net_Acc_X(g)	MISC	n/a
+Table_OtherSide_Acc_X(g)	MISC	n/a
+Table_ParticipantSide_Acc_X(g)	MISC	n/a
+Participant_Head_Acc_X(g)	MISC	n/a
+Participant_Torso_Acc_X(g)	MISC	n/a
+Participant_Backpack_Acc_Y(g)	MISC	n/a
+Participant_Paddle_Acc_Y(g)	MISC	n/a
+BallMachine_Acc_Y(g)	MISC	n/a
+Researcher_Paddle_Acc_Y(g)	MISC	n/a
+Net_Acc_Y(g)	MISC	n/a
+Table_OtherSide_Acc_Y(g)	MISC	n/a
+Table_ParticipantSide_Acc_Y(g)	MISC	n/a
+Participant_Head_Acc_Y(g)	MISC	n/a
+Participant_Torso_Acc_Y(g)	MISC	n/a
+Participant_Backpack_Acc_Z(g)	MISC	n/a
+Participant_Paddle_Acc_Z(g)	MISC	n/a
+BallMachine_Acc_Z(g)	MISC	n/a
+Researcher_Paddle_Acc_Z(g)	MISC	n/a
+Net_Acc_Z(g)	MISC	n/a
+Table_OtherSide_Acc_Z(g)	MISC	n/a
+Table_ParticipantSide_Acc_Z(g)	MISC	n/a
+Participant_Head_Acc_Z(g)	MISC	n/a
+Participant_Torso_Acc_Z(g)	MISC	n/a
+Imu_1_ImuGyro :X(D/s):	MISC	n/a
+Imu_2_ImuGyro :X(D/s):	MISC	n/a
+Imu_4_ImuGyro :X(D/s):	MISC	n/a
+Imu_8_ImuGyro :X(D/s):	MISC	n/a
+Imu_9_ImuGyro :X(D/s):	MISC	n/a
+Imu_1_ImuGyro :Y(D/s):	MISC	n/a
+Imu_2_ImuGyro :Y(D/s):	MISC	n/a
+Imu_4_ImuGyro :Y(D/s):	MISC	n/a
+Imu_8_ImuGyro :Y(D/s):	MISC	n/a
+Imu_9_ImuGyro :Y(D/s):	MISC	n/a
+Imu_1_ImuGyro :Z(D/s):	MISC	n/a
+Imu_2_ImuGyro :Z(D/s):	MISC	n/a
+Imu_4_ImuGyro :Z(D/s):	MISC	n/a
+Imu_8_ImuGyro :Z(D/s):	MISC	n/a
+Imu_9_ImuGyro :Z(D/s):	MISC	n/a
+Imu_1_ImuMag :X(uT):	MISC	n/a
+Imu_2_ImuMag :X(uT):	MISC	n/a
+Imu_4_ImuMag :X(uT):	MISC	n/a
+Imu_8_ImuMag :X(uT):	MISC	n/a
+Imu_9_ImuMag :X(uT):	MISC	n/a
+Imu_1_ImuMag :Y(uT):	MISC	n/a
+Imu_2_ImuMag :Y(uT):	MISC	n/a
+Imu_4_ImuMag :Y(uT):	MISC	n/a
+Imu_8_ImuMag :Y(uT):	MISC	n/a
+Imu_9_ImuMag :Y(uT):	MISC	n/a
+Imu_1_ImuMag :Z(uT):	MISC	n/a
+Imu_2_ImuMag :Z(uT):	MISC	n/a
+Imu_4_ImuMag :Z(uT):	MISC	n/a
+Imu_8_ImuMag :Z(uT):	MISC	n/a
+Imu_9_ImuMag :Z(uT):	MISC	n/a
+Imu_1 :W():	MISC	n/a
+Imu_2 :W():	MISC	n/a
+Imu_4 :W():	MISC	n/a
+Imu_8 :W():	MISC	n/a
+Imu_9 :W():	MISC	n/a
+Imu_1 :X():	MISC	n/a
+Imu_2 :X():	MISC	n/a
+Imu_4 :X():	MISC	n/a
+Imu_8 :X():	MISC	n/a
+Imu_9 :X():	MISC	n/a
+Imu_1 :Y():	MISC	n/a
+Imu_2 :Y():	MISC	n/a
+Imu_4 :Y():	MISC	n/a
+Imu_8 :Y():	MISC	n/a
+Imu_9 :Y():	MISC	n/a
+Imu_1 :Z():	MISC	n/a
+Imu_2 :Z():	MISC	n/a
+Imu_4 :Z():	MISC	n/a
+Imu_8 :Z():	MISC	n/a
+Imu_9 :Z():	MISC	n/a
+IMU1_RMS	MISC	n/a
+IMU8_RMS	MISC	n/a
