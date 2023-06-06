@@ -1,2 +1,4 @@
+1.0.2 2023-06-06
+  - Added "Merged" files to the sourcedata folder. These are filtered at 1 Hz high-pass and the individual LiveAmps are merged along with the Cometas IMUs
 1.0.1 2023-03-30
   - add files and source data
