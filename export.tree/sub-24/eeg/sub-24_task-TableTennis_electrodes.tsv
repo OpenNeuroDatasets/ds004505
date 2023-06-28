@@ -1,0 +1,328 @@
+name	x	y	z
+Fp1	93.66	30.78	59.66
+AFp1	92.2	19.66	76.4
+AFz	86.98	7.26	86.08
+AF3	82.4	33.94	79.88
+AF7	79.97	51.77	50.85
+AFF5h	70.83	51.91	72.69
+AFF1h	70.62	19.59	98.48
+F1	52.98	27.8	107.5
+F3	55.08	47.23	93.35
+F5	59.52	61.29	70.59
+F7	60.83	65.86	44.29
+F9	53.88	67.35	14.33
+FFT9h	45.83	72.82	25.41
+FFT7h	44.61	72.64	57.37
+FFC5h	42.75	61.64	84.28
+FFC3h	38.2	44.22	106.21
+FFC1h	37.89	16.03	118.18
+FCz	23.16	1.16	125.12
+FC1	22.22	33.28	117.7
+FC3	26.57	57.13	98.76
+FC5	27.69	73.66	72.01
+FT7	32.45	77.37	39.87
+FT9	39.84	72.43	10.65
+FTT9h	22.18	78.42	25.39
+FTT7h	16.13	79.47	52.78
+FCC5h	11.73	71.81	85.87
+FCC3h	7.17	48.94	112.72
+FCC1h	7.32	17.55	126.7
+C1	-12.42	36.36	120.96
+C3	-8.79	65.42	97.5
+C5	-1.61	79.28	66.94
+T7	3.49	81.26	36.14
+TTP7h	-15.16	80.12	47.04
+CCP5h	-20.67	72.21	81.01
+CCP3h	-28.41	49.18	107.83
+CCP1h	-30.88	18.34	121.09
+CP1	-43.65	34.76	108.45
+CP3	-41.16	60.1	88.69
+CP5	-31.75	73.77	62.24
+TP7	-27.21	77.95	31.12
+TPP9h	-40.58	75.69	14.29
+TPP7h	-44.95	72.11	43.14
+CPP5h	-50.4	62.92	69.56
+CPP3h	-56.01	46.2	91.01
+CPP1h	-57.2	20.27	102.09
+P1	-67.71	28.28	87.16
+P3	-64.88	48.78	73.14
+P5	-56.6	63	51.94
+P7	-51.37	69.02	27.16
+PPO5h	-70.12	49.83	52.24
+PPO1h	-77.6	17.36	72.53
+POz	-84.53	-0.26	56.57
+PO3	-80.97	32.46	47.71
+PO7	-71.76	47.27	24.11
+PPO9h	-56.68	62.01	13.6
+POO9h	-78.14	35.87	9.33
+O1	-83.51	25.08	21.88
+POO1	-85.79	12.69	37.32
+OI1h	-85.72	13.76	9.38
+Iz	-77.27	-4.33	-8.72
+Cz	-14.14	-2.78	128.28
+C2	-12.36	-33.26	120.1
+C4	-6.34	-61.97	98.27
+C6	-1.65	-76.78	64.69
+T8	5.26	-78.99	31.85
+FTT10h	20.71	-75.47	21.32
+FTT8h	14.43	-77.08	49.24
+FCC6h	11.83	-69.45	84.26
+FCC4h	7.34	-47.6	110.62
+FCC2h	2.48	-18.51	126.14
+FC2	21.04	-31.57	117.12
+FC4	26.81	-56.82	96.79
+FC6	29.97	-71.74	68.27
+FT8	32.91	-74.09	34.23
+FT10	37.37	-68.63	5.94
+FFT10h	43.33	-67.86	20.21
+FFT8h	47.26	-70.03	54.03
+FFC6h	41.06	-62.79	81.11
+FFC4h	40.66	-44.81	102.88
+FFC2h	37.82	-14.35	118.4
+Fz	53.94	-0.63	111.87
+F2	54.67	-25.03	106.88
+F4	54.05	-49.26	90.88
+F6	61.89	-58.14	71.19
+F8	57.88	-63.59	38.12
+F10	53.63	-63.95	10.4
+AFF6h	73.82	-49.51	72.39
+AFF2h	69.85	-16.02	100.68
+AF4	83.65	-34.42	76.95
+AF8	81.1	-48.93	44.39
+FP2	94.61	-30.19	57.35
+AFp2	92.74	-20.09	73.24
+Oz	-85.24	-0.85	25.96
+OI2h	-83.2	-14.95	9.6
+POO10h	-78.49	-35.75	8.92
+O2	-83.47	-25.9	22.96
+POO2	-86.89	-13.48	36.32
+PO4	-81.69	-31.34	48.31
+PO8	-72.35	-48.05	25.53
+PPO10h	-54.64	-63.17	8.86
+PPO6h	-71.31	-47.99	47.26
+PPO2h	-76.49	-19.85	72.79
+Pz	-69.48	4.47	89.07
+P2	-68.75	-26.96	83.31
+P4	-63.68	-49.23	68.29
+P6	-56.89	-60.85	45.51
+P8	-51.02	-67.8	24.58
+TPP10h	-41.14	-73.18	13.85
+TPP8h	-41.9	-70.23	39.68
+CPP6h	-47.15	-61.55	69.12
+CPP4h	-56.53	-42.51	88.95
+CPP2h	-57.21	-18.9	100.62
+CP2	-45.07	-31.49	107.2
+CP4	-38.06	-58.73	87.59
+CP6	-30.78	-71.97	55.29
+TP8	-25.84	-76.47	27.85
+TTP8h	-14.62	-78.25	43.86
+CCP6h	-19.64	-70.1	76.61
+CCP4h	-27.72	-48.51	105.42
+CCP2h	-30.61	-18.62	120.94
+N-Fp1	n/a	n/a	n/a
+N-AFp1	n/a	n/a	n/a
+N-AFz	n/a	n/a	n/a
+N-AF3	n/a	n/a	n/a
+N-AF7	n/a	n/a	n/a
+N-AFF5h	n/a	n/a	n/a
+N-AFF1h	n/a	n/a	n/a
+N-F1	n/a	n/a	n/a
+N-F3	n/a	n/a	n/a
+N-F5	n/a	n/a	n/a
+N-F7	n/a	n/a	n/a
+N-F9	n/a	n/a	n/a
+N-FFT9h	n/a	n/a	n/a
+N-FFT7h	n/a	n/a	n/a
+N-FFC5h	n/a	n/a	n/a
+N-FFC3h	n/a	n/a	n/a
+N-FFC1h	n/a	n/a	n/a
+N-FCz	n/a	n/a	n/a
+N-FC1	n/a	n/a	n/a
+N-FC3	n/a	n/a	n/a
+N-FC5	n/a	n/a	n/a
+N-FT7	n/a	n/a	n/a
+N-FT9	n/a	n/a	n/a
+N-FTT9h	n/a	n/a	n/a
+N-FTT7h	n/a	n/a	n/a
+N-FCC5h	n/a	n/a	n/a
+N-FCC3h	n/a	n/a	n/a
+N-FCC1h	n/a	n/a	n/a
+N-C1	n/a	n/a	n/a
+N-C3	n/a	n/a	n/a
+N-C5	n/a	n/a	n/a
+N-T7	n/a	n/a	n/a
+N-TTP7h	n/a	n/a	n/a
+N-CCP5h	n/a	n/a	n/a
+N-CCP3h	n/a	n/a	n/a
+N-CCP1h	n/a	n/a	n/a
+N-CP1	n/a	n/a	n/a
+N-CP3	n/a	n/a	n/a
+N-CP5	n/a	n/a	n/a
+N-TP7	n/a	n/a	n/a
+N-TPP9h	n/a	n/a	n/a
+N-TPP7h	n/a	n/a	n/a
+N-CPP5h	n/a	n/a	n/a
+N-CPP3h	n/a	n/a	n/a
+N-CPP1h	n/a	n/a	n/a
+N-P1	n/a	n/a	n/a
+N-P3	n/a	n/a	n/a
+N-P5	n/a	n/a	n/a
+N-P7	n/a	n/a	n/a
+N-PPO5h	n/a	n/a	n/a
+N-PPO1h	n/a	n/a	n/a
+N-POz	n/a	n/a	n/a
+N-PO3	n/a	n/a	n/a
+N-PO7	n/a	n/a	n/a
+N-PPO9h	n/a	n/a	n/a
+N-POO9h	n/a	n/a	n/a
+N-O1	n/a	n/a	n/a
+N-POO1	n/a	n/a	n/a
+N-OI1h	n/a	n/a	n/a
+N-Iz	n/a	n/a	n/a
+N-Cz	n/a	n/a	n/a
+N-C2	n/a	n/a	n/a
+N-C4	n/a	n/a	n/a
+N-C6	n/a	n/a	n/a
+N-T8	n/a	n/a	n/a
+N-FTT10h	n/a	n/a	n/a
+N-FTT8h	n/a	n/a	n/a
+N-FCC6h	n/a	n/a	n/a
+N-FCC4h	n/a	n/a	n/a
+N-FCC2h	n/a	n/a	n/a
+N-FC2	n/a	n/a	n/a
+N-FC4	n/a	n/a	n/a
+N-FC6	n/a	n/a	n/a
+N-FT8	n/a	n/a	n/a
+N-FT10	n/a	n/a	n/a
+N-FFT10h	n/a	n/a	n/a
+N-FFT8h	n/a	n/a	n/a
+N-FFC6h	n/a	n/a	n/a
+N-FFC4h	n/a	n/a	n/a
+N-FFC2h	n/a	n/a	n/a
+N-Fz	n/a	n/a	n/a
+N-F2	n/a	n/a	n/a
+N-F4	n/a	n/a	n/a
+N-F6	n/a	n/a	n/a
+N-F8	n/a	n/a	n/a
+N-F10	n/a	n/a	n/a
+N-AFF6h	n/a	n/a	n/a
+N-AFF2h	n/a	n/a	n/a
+N-AF4	n/a	n/a	n/a
+N-AF8	n/a	n/a	n/a
+N-FP2	n/a	n/a	n/a
+N-AFp2	n/a	n/a	n/a
+N-Oz	n/a	n/a	n/a
+N-OI2h	n/a	n/a	n/a
+N-POO10h	n/a	n/a	n/a
+N-O2	n/a	n/a	n/a
+N-POO2	n/a	n/a	n/a
+N-PO4	n/a	n/a	n/a
+N-PO8	n/a	n/a	n/a
+N-PPO10h	n/a	n/a	n/a
+N-PPO6h	n/a	n/a	n/a
+N-PPO2h	n/a	n/a	n/a
+N-Pz	n/a	n/a	n/a
+N-P2	n/a	n/a	n/a
+N-P4	n/a	n/a	n/a
+N-P6	n/a	n/a	n/a
+N-P8	n/a	n/a	n/a
+N-TPP10h	n/a	n/a	n/a
+N-TPP8h	n/a	n/a	n/a
+N-CPP6h	n/a	n/a	n/a
+N-CPP4h	n/a	n/a	n/a
+N-CPP2h	n/a	n/a	n/a
+N-CP2	n/a	n/a	n/a
+N-CP4	n/a	n/a	n/a
+N-CP6	n/a	n/a	n/a
+N-TP8	n/a	n/a	n/a
+N-TTP8h	n/a	n/a	n/a
+N-CCP6h	n/a	n/a	n/a
+N-CCP4h	n/a	n/a	n/a
+N-CCP2h	n/a	n/a	n/a
+LISCM	n/a	n/a	n/a
+LSSCM	n/a	n/a	n/a
+LSTrap	n/a	n/a	n/a
+LITrap	n/a	n/a	n/a
+CGY-x	n/a	n/a	n/a
+CGY-y	n/a	n/a	n/a
+CGY-z	n/a	n/a	n/a
+RITrap	n/a	n/a	n/a
+RISCM	n/a	n/a	n/a
+RSSCM	n/a	n/a	n/a
+RSTrap	n/a	n/a	n/a
+CWR-x	n/a	n/a	n/a
+CWR-y	n/a	n/a	n/a
+CWR-z	n/a	n/a	n/a
+NGY-x	n/a	n/a	n/a
+NGY-y	n/a	n/a	n/a
+NGY-z	n/a	n/a	n/a
+NWR-x	n/a	n/a	n/a
+NWR-y	n/a	n/a	n/a
+NWR-z	n/a	n/a	n/a
+SyncPulse(uV)	n/a	n/a	n/a
+Participant_Backpack_Acc_X(g)	n/a	n/a	n/a
+Participant_Paddle_Acc_X(g)	n/a	n/a	n/a
+BallMachine_Acc_X(g)	n/a	n/a	n/a
+Researcher_Paddle_Acc_X(g)	n/a	n/a	n/a
+Net_Acc_X(g)	n/a	n/a	n/a
+Table_OtherSide_Acc_X(g)	n/a	n/a	n/a
+Table_ParticipantSide_Acc_X(g)	n/a	n/a	n/a
+Participant_Head_Acc_X(g)	n/a	n/a	n/a
+Participant_Backpack_Acc_Y(g)	n/a	n/a	n/a
+Participant_Paddle_Acc_Y(g)	n/a	n/a	n/a
+BallMachine_Acc_Y(g)	n/a	n/a	n/a
+Researcher_Paddle_Acc_Y(g)	n/a	n/a	n/a
+Net_Acc_Y(g)	n/a	n/a	n/a
+Table_OtherSide_Acc_Y(g)	n/a	n/a	n/a
+Table_ParticipantSide_Acc_Y(g)	n/a	n/a	n/a
+Participant_Head_Acc_Y(g)	n/a	n/a	n/a
+Participant_Backpack_Acc_Z(g)	n/a	n/a	n/a
+Participant_Paddle_Acc_Z(g)	n/a	n/a	n/a
+BallMachine_Acc_Z(g)	n/a	n/a	n/a
+Researcher_Paddle_Acc_Z(g)	n/a	n/a	n/a
+Net_Acc_Z(g)	n/a	n/a	n/a
+Table_OtherSide_Acc_Z(g)	n/a	n/a	n/a
+Table_ParticipantSide_Acc_Z(g)	n/a	n/a	n/a
+Participant_Head_Acc_Z(g)	n/a	n/a	n/a
+Imu_1_ImuGyro :X(D/s):	n/a	n/a	n/a
+Imu_2_ImuGyro :X(D/s):	n/a	n/a	n/a
+Imu_4_ImuGyro :X(D/s):	n/a	n/a	n/a
+Imu_8_ImuGyro :X(D/s):	n/a	n/a	n/a
+Imu_1_ImuGyro :Y(D/s):	n/a	n/a	n/a
+Imu_2_ImuGyro :Y(D/s):	n/a	n/a	n/a
+Imu_4_ImuGyro :Y(D/s):	n/a	n/a	n/a
+Imu_8_ImuGyro :Y(D/s):	n/a	n/a	n/a
+Imu_1_ImuGyro :Z(D/s):	n/a	n/a	n/a
+Imu_2_ImuGyro :Z(D/s):	n/a	n/a	n/a
+Imu_4_ImuGyro :Z(D/s):	n/a	n/a	n/a
+Imu_8_ImuGyro :Z(D/s):	n/a	n/a	n/a
+Imu_1_ImuMag :X(uT):	n/a	n/a	n/a
+Imu_2_ImuMag :X(uT):	n/a	n/a	n/a
+Imu_4_ImuMag :X(uT):	n/a	n/a	n/a
+Imu_8_ImuMag :X(uT):	n/a	n/a	n/a
+Imu_1_ImuMag :Y(uT):	n/a	n/a	n/a
+Imu_2_ImuMag :Y(uT):	n/a	n/a	n/a
+Imu_4_ImuMag :Y(uT):	n/a	n/a	n/a
+Imu_8_ImuMag :Y(uT):	n/a	n/a	n/a
+Imu_1_ImuMag :Z(uT):	n/a	n/a	n/a
+Imu_2_ImuMag :Z(uT):	n/a	n/a	n/a
+Imu_4_ImuMag :Z(uT):	n/a	n/a	n/a
+Imu_8_ImuMag :Z(uT):	n/a	n/a	n/a
+Imu_1 :W():	n/a	n/a	n/a
+Imu_2 :W():	n/a	n/a	n/a
+Imu_4 :W():	n/a	n/a	n/a
+Imu_8 :W():	n/a	n/a	n/a
+Imu_1 :X():	n/a	n/a	n/a
+Imu_2 :X():	n/a	n/a	n/a
+Imu_4 :X():	n/a	n/a	n/a
+Imu_8 :X():	n/a	n/a	n/a
+Imu_1 :Y():	n/a	n/a	n/a
+Imu_2 :Y():	n/a	n/a	n/a
+Imu_4 :Y():	n/a	n/a	n/a
+Imu_8 :Y():	n/a	n/a	n/a
+Imu_1 :Z():	n/a	n/a	n/a
+Imu_2 :Z():	n/a	n/a	n/a
+Imu_4 :Z():	n/a	n/a	n/a
+Imu_8 :Z():	n/a	n/a	n/a
+IMU1_RMS	n/a	n/a	n/a
+IMU8_RMS	n/a	n/a	n/a
